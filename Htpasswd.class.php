@@ -5,9 +5,8 @@
 *
 * @package    Projects
 * @module     Statistics
-* @author     Diego Sapriza, dsapriza@strixsolutions.com
+* @author     Diego Sapriza, AV4TAr@gmail.com
 * @licence    GPL, see www.gnu.org/copyleft/gpl.html
-* @copyright  2009 Strix Solutions
 * @version    1.0
 */
 
